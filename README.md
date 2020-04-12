@@ -1,1 +1,3 @@
-# varuntyagi
+# maven-project
+
+Simple Maven Project
